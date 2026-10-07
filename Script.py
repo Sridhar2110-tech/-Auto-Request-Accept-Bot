@@ -4,7 +4,7 @@
 
 class script(object):
 
-    START_MSG = """<b>🦊 Hᴇʟʟᴏ {},!\n\nI'ᴍ ᴀɴ ᴀᴜᴛᴏ-ᴀᴘᴘʀᴏᴠᴇ [ᴀᴅᴍɪɴ](https://t.me/hacker_x_official_777) [Jᴏɪɴ Rᴇǫᴜᴇsᴛs](https://t.me/telegram/153) ʙᴏᴛ.\nI ᴄᴀɴ ᴀᴘᴘʀᴏᴠᴇ ᴜsᴇʀs ɪɴ Gʀᴏᴜᴘs/Cʜᴀᴛs. Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ᴀɴᴅ [ᴘʀᴏᴍᴏᴛᴇ ᴍᴇ ᴛᴏ ᴀᴅᴍɪɴ]()\n\n<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ :  <a href='https://telegram.me/spideyofficialupdatez'>ꜱᴘɪᴅᴇʏᴏғғɪᴄɪᴀʟ𝟽𝟽𝟽</a></blockquote></b>"""
+    START_MSG = """<b>🦊 Hᴇʟʟᴏ {},!\n\nI'ᴍ ᴀɴ ᴀᴜᴛᴏ-ᴀᴘᴘʀᴏᴠᴇ [ᴀᴅᴍɪɴ](https://t.me/Moviesda_LinkZz) [Jᴏɪɴ Rᴇǫᴜᴇsᴛs](https://t.me/Moviesda_LinkZz) ʙᴏᴛ.\nI ᴄᴀɴ ᴀᴘᴘʀᴏᴠᴇ ᴜsᴇʀs ɪɴ Gʀᴏᴜᴘs/Cʜᴀᴛs. Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ᴀɴᴅ [ᴘʀᴏᴍᴏᴛᴇ ᴍᴇ ᴛᴏ ᴀᴅᴍɪɴ]()\n\n<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ :  <a href='https://telegram.me/spideyofficialupdatez'>ꜱᴘɪᴅᴇʏᴏғғɪᴄɪᴀʟ𝟽𝟽𝟽</a></blockquote></b>"""
     
     DISCLAIMER_TXT = """
 <b>      ᴀᴜᴛᴏ ʀᴇǫᴜᴇsᴛ ᴀᴄᴄᴇᴘᴛ ʙᴏᴛ
@@ -12,7 +12,7 @@ class script(object):
    
   ᴛʜɪs ʙᴏᴛ ɪs ᴀ ᴘᴜʙʟɪᴄʟʏ ᴀᴠᴀɪʟᴀʙʟᴇ ᴛᴏᴏʟ ᴅᴇsɪɢɴᴇᴅ ᴛᴏ ᴀssɪsᴛ ᴄʜᴀɴɴᴇʟ ᴏᴡɴᴇʀs ʙʏ ᴀᴜᴛᴏᴍᴀᴛɪɴɢ ᴛʜᴇ ᴘʀᴏᴄᴇss ᴏғ ᴀᴄᴄᴇᴘᴛɪɴɢ ʀᴇǫᴜᴇsᴛs ᴏɴ ᴛʜᴇɪʀ ᴄʜᴀɴɴᴇʟs. Iᴛ ɪs ɪɴᴛᴇɴᴅᴇᴅ ᴛᴏ ɪɴᴄʀᴇᴀsᴇ ᴇғғɪᴄɪᴇɴᴄʏ ᴀɴᴅ ᴇɴʜᴀɴᴄᴇ ᴛʜᴇ ʀᴇǫᴜᴇsᴛ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴇxᴘᴇʀɪᴇɴᴄᴇ. ᴀʟʟ ʀɪɢʜᴛs ᴛᴏ ᴛʜᴇ ᴏʀɪɢɪɴᴀʟ sᴏғᴛᴡᴀʀᴇ ᴀɴᴅ ʀᴇʟᴀᴛᴇᴅ ᴄᴏɴᴛᴇɴᴛ ᴀʀᴇ ᴛʜᴇ ᴘʀᴏᴘᴇʀᴛʏ ᴏғ ᴛʜᴇɪʀ ʀᴇsᴘᴇᴄᴛɪᴠᴇ ᴄᴏᴘʏʀɪɢʜᴛ ʜᴏʟᴅᴇʀs. Tʜɪs ʙᴏᴛ ɪs ɴᴏᴛ ᴀғғɪʟɪᴀᴛᴇᴅ ᴡɪᴛʜ, ᴇɴᴅᴏʀsᴇᴅ ʙʏ, ᴏʀ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ʙʏ ᴛᴇʟᴇɢʀᴀᴍ , ᴜɴʟᴇss ᴏᴛʜᴇʀᴡɪsᴇ sᴘᴇᴄɪғɪᴇᴅ. Usᴇ ᴏғ ᴛʜɪs ʙᴏᴛ ᴅᴏᴇs ɴᴏᴛ ɢʀᴀɴᴛ ᴏᴡɴᴇʀsʜɪᴘ ʀɪɢʜᴛs ᴛᴏ ᴛʜᴇ sᴏғᴛᴡᴀʀᴇ ᴏʀ ᴀssᴏᴄɪᴀᴛᴇᴅ ɪɴᴛᴇʟʟᴇᴄᴛᴜᴀʟ ᴘʀᴏᴘᴇʀᴛʏ. ʙʏ ᴜsɪɴɢ ᴛʜɪs ʙᴏᴛ, ʏᴏᴜ ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇ ᴀɴᴅ ᴀɢʀᴇᴇ ᴛᴏ ᴄᴏᴍᴘʟʏ ᴡɪᴛʜ ᴀʟʟ ʀᴇʟᴇᴠᴀɴᴛ ᴛᴇʀᴍs ᴏғ sᴇʀᴠɪᴄᴇ ᴀɴᴅ ᴜsᴀɢᴇ ᴘᴏʟɪᴄɪᴇs ᴏғ ᴛʜᴇ ᴘʟᴀᴛғᴏʀᴍs ʏᴏᴜ ɪɴᴛᴇʀᴀᴄᴛ ᴡɪᴛʜ. ғᴏʀ ɪɴǫᴜɪʀɪᴇs ᴏʀ ᴄᴏɴᴄᴇʀɴs, ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴏʀ ʀᴇғᴇʀ ᴛᴏ ᴛʜᴇ ʀᴇʟᴇᴠᴀɴᴛ ᴘʟᴀᴛғᴏʀᴍ's ᴛᴇʀᴍs ᴏғ sᴇʀᴠɪᴄᴇ. 
 
-<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Hacker_x_official_777'>ꜱᴘɪᴅᴇʏᴏғғɪᴄɪᴀʟ𝟽𝟽𝟽</a></b>
+<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/Moviesda_LinkZz'>Moviesda LinkZz</a></b>
  """
     
     LOGO =""" 
@@ -33,7 +33,7 @@ class script(object):
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code> ᴠ𝟶.𝟽.𝟹 [ Sᴛᴀʙʟᴇ ]</code>
 
- 🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='https://telegram.me/Hacker_x_official_777'>ꜱᴘɪᴅᴇʏᴏғғɪᴄɪᴀʟ𝟽𝟽𝟽</a></b>
+ 🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='https://t.me/Moviesda_LinkZz'>Moviesda LinkZz</a></b>
 """    
 
     SOURCE_TXT = """
@@ -55,7 +55,7 @@ class script(object):
 
 © 𝟸𝟶𝟸𝟻 | <a href=https://t.me/SPIDEYOFFICIAL777>sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ</a> , ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
   
-  <blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Hacker_x_official_777'>ꜱᴘɪᴅᴇʏᴏғғɪᴄɪᴀʟ𝟽𝟽𝟽</a></blockquote></b>"""
+  <blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/Moviesda_LinkZz'>Moviesda LinkZz</a></blockquote></b>"""
     
     ALERT_MSG = """ ⚡️ ʟɪᴠᴇ sʏsᴛᴇᴍ sᴛᴀᴛᴜs ⚡️\n\n❂ ʀᴀᴍ ●●●●●●●◌◌◌\n✇ ᴄᴘᴜ ●●●●●●●◌◌◌\n✪ ᴅᴀᴛᴀ ᴛʀᴀꜰɪᴄs ●●●●◌◌◌◌◌◌ 🛰\n\nᴠ𝟸.𝟶 [sᴛᴀʙʟᴇ] """
     
