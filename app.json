@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "6497757690"
+      "value": "2057229350"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -35,7 +35,7 @@
     },
     "LOG_CHANNEL":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-1002461263750"
+      "value": "-1002633593906"
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
