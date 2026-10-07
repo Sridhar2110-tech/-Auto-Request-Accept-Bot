@@ -2,7 +2,7 @@
 
 # 🕷️ SPIDEY × ROBOT 🤖
 
-<img src="https://i.ibb.co/chHyNh7m/IMG-20251002-111708-471.jpg" alt="Spidey Robot" width="600"/>
+<img src="https://files.catbox.moe/iusgr1.jpg" alt="Moviesda Bot" width="600"/>
 
 ### *Advanced Telegram Automation & Group Management Bot — V2.0*
 
@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Release](https://img.shields.io/github/v/release/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT?style=for-the-badge&logo=github)](https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT/releases/latest)
 
-**[🚀 Live Bot](https://t.me/SPIDER_MAN_GAMING_bot)** • **[💬 Support Group](https://telegram.me/spideyofficial_777)** • **[📢 Updates Channel](https://t.me/+QVmLP_hlHNw3M2I1)**
+**[🚀 Live Bot](https://t.me/Auto_RequestApprover_bot)** • **[💬 Support Group](https://t.me/MoviesdaXAdminBot)** • **[📢 Updates Channel](https://t.me/+XB1KZgMbSboxNWQ1)**
 
 ---
 
