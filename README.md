@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕷️ SPIDEY × ROBOT 🤖
+# 🕷️ Moviesda X Bot 🤖
 
 <img src="https://files.catbox.moe/iusgr1.jpg" alt="Moviesda Bot" width="600"/>
 
